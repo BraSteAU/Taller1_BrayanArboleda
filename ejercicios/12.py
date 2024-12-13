@@ -1,4 +1,4 @@
-lista=[4,2,6,8,1]
+lista=[4,2,6,8,3]
 mayor=lista[0]
 for i in lista:
     if i>mayor:
